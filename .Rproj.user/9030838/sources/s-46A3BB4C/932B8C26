@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511365900849.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "351418274",
+    "id" : "932B8C26",
+    "lastKnownWriteTime" : 1511450656,
+    "last_content_update" : 1511450656883,
+    "path" : "~/Documents/Rladies-Form/RLadiesForm/app.R",
+    "project_path" : "RLadiesForm/app.R",
+    "properties" : {
+        "cursorPosition" : "66,45",
+        "scrollLine" : "56"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
